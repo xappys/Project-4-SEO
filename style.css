@@ -645,15 +645,34 @@ h3,
 h4,
 h5,
 h6,
-p,
-label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
     color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-
+p {
+    color: black;
+    font-family: "helvetica";
+    font-weight: 300;
+}
+label {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: black;
+}
+.title1, .title2 {
+    font-size: 32px !important;
+}
+.quote {
+    width: 100%;
+    height: auto;
+}
+.home {
+    text-decoration: none;
+}
 .container {
     max-width: 1000px;
 }
