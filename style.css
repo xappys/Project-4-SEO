@@ -853,6 +853,15 @@ h4 {
 .partners{
     color: white !important;
 }
+.partner-item {
+    padding: 20px;
+}
+.partner-link {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
 .col-sm-3 {
    padding: 10px; 
 }
